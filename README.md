@@ -12,6 +12,12 @@
 | 2차 프로젝트명 | 기간 |
 
 
+## 코드리뷰에 관한 좋은 자료
+- https://tech.kakao.com/2022/03/17/2022-newkrew-onboarding-codereview/
+
+- https://engineering.linecorp.com/ko/blog/effective-codereview/
+
+
 ## 📑 참고 자료
 
 ### 우테코 precourse
